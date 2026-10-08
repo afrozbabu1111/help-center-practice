@@ -6,7 +6,7 @@
 <div class="hero">
     <h1>Help Center</h1>
     <p>Hello!! Welcome to this page. </p>
-    <p>Ownser of this application: Afroz Shaik</p>
+    <p>Owner of this application: Afroz Shaik</p>
     <p>Contact: afrozshaik.devops@Gmail.com</p>
     <p>This application will later be containerized and deployed to Kubernetes.</p>
 </div>
