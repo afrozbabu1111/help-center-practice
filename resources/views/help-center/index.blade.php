@@ -5,7 +5,7 @@
 @section('content')
 <div class="hero">
     <h1>Help Center</h1>
-    <p>Welcome to this page.</p>
+    <p>Hello!! Welcome to this page. </p>
     <p>This application will later be containerized and deployed to Kubernetes.</p>
 </div>
 
