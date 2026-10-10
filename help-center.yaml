@@ -26,6 +26,8 @@ spec:
                 secretKeyRef:
                   name: laravel-app-key
                   key: APP_KEY
+            - name: SESSION_DRIVER
+              value: "file"
 ---
 apiVersion: v1
 kind: Service
