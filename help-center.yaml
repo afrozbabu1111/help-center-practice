@@ -20,6 +20,12 @@ spec:
           image: 834283091445.dkr.ecr.ap-south-1.amazonaws.com/help-center:latest
           ports:
             - containerPort: 80
+          env:
+            - name: APP_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: laravel-app-key
+                  key: APP_KEY
 ---
 apiVersion: v1
 kind: Service
