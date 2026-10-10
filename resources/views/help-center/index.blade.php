@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="hero">
-    <h1>Help Center</h1>
+    <h1><b>Help Center Application</b></h1>
     <p>Hello!! Welcome to this page. </p>
     <p>Owner of this application: Afroz Shaik</p>
     <p>Contact: afrozshaik.devops@Gmail.com</p>
